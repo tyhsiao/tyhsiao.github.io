@@ -80,25 +80,6 @@
   
   
   <entry>
-    <title>超大型積體電路設計導論、VLSI 實驗 － 黃聖傑</title>
-    <link href="/2022/06/30/post3/"/>
-    <url>/2022/06/30/post3/</url>
-    
-    <content type="html"><![CDATA[<h3 id="課程名稱"><a href="#課程名稱" class="headerlink" title="課程名稱"></a>課程名稱</h3><ul><li>超大型積體電路設計導論</li><li>VLSI 實驗</li></ul><h3 id="教授"><a href="#教授" class="headerlink" title="教授"></a>教授</h3><ul><li>黃聖傑</li></ul><h3 id="修課年度"><a href="#修課年度" class="headerlink" title="修課年度"></a>修課年度</h3><ul><li>110-2 (我個人是這學期同時修這兩門課，但課程內容相近，因此寫在同一份心得內)</li></ul><h3 id="教了什麼"><a href="#教了什麼" class="headerlink" title="教了什麼"></a>教了什麼</h3><ul><li>學期總共分為三個部分：</li></ul><ol><li>SPICE 的電路設計<ul><li>基本上從簡單的元件開始，例如邏輯閘 and, nor 等等，使用 MOSFET 去把這些邏輯閘拼湊出來，再來是 Full Adder, Carry Lookahead Adder, 2 Phase Handshaking, Finite State Machine, Multiplier, Multiply Accumulate</li></ul></li><li>Layout，畫的大致上是 SPICE 上面所實做過的</li><li>Verilog (System Design)，寫的基本上是以上所實做過的，額外可能有要試 CPU simulation, FFT</li></ol><h3 id="上課方式"><a href="#上課方式" class="headerlink" title="上課方式"></a>上課方式</h3><ul><li>因為疫情的關係，今年比較特別是使用 Line 文字的方式遠距授課，基本上上課時間老師會在 Line 上打字跟同學提點這次的上課重點，回去後可以參與課本以及網路資料能更理解 VLSI 的設計。</li><li>超大型積體電路設計導論 - 基本上每週有兩天的課，每次都會上課都會出作業，一週會至少有一份作業，另一份則為加分題，繳交方式則是把相關資料 Line 給老師即可</li><li>VLSI 實驗 - 這堂課課比較少，也是每週有一次的作業</li><li>關於使用的 Tool 比較麻煩一點，老師不會提供任何的工作站，因此同學必須自己找其他人要或是想辦法找到相關軟體</li></ul><h3 id="考試作業"><a href="#考試作業" class="headerlink" title="考試作業"></a>考試作業</h3><ul><li>共有三次考試，SPICE, Layout, Verilog 各一次，考試內容為作業的整合及一些應用，不會很難，但老師很要求 IC Design Criteria - Time-to-Market，所以寫完正確的速度越快分數越高，考試開始後 30 分鐘內為 100 分，每 30 分鐘過後扣 5~10 分。如果超過 30 分鐘後沒有寫出，前幾名寫出還是可以獲得 100 分</li></ul><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><ul><li>修課的基礎是要稍微了解 MOSFET 的原理，也就是電子學所教的內容</li></ul><h3 id="最後想說的話"><a href="#最後想說的話" class="headerlink" title="最後想說的話"></a>最後想說的話</h3><ul><li><p>這門課雖然真的很特別是使用 Line 上課，一開始是真的很不習慣，但老師的授課理念是很明確的，從較底層的 SPICE Model 到 System Level Design，一學期內可以讓學生大致了解整個設計架構。老師人也很好，隨時有問題 Line 老師，他都會滿快回覆的。但我還是覺得或許實體課還是會比較好。以下是我的課程作業合集，有興趣的可以觀看了解：</p></li><li><p><a href="https://youtu.be/XhdIe5mc16o">超大型積體電路設計導論 作業影片</a></p></li><li><p><a href="https://youtu.be/k6os-1gE_uA">VLSI Lab 作業影片</a></p></li></ul>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>EE-Courses</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>嵌入式系統總整與實作 － 曾煜棋、吳昆儒</title>
     <link href="/2022/06/30/post2/"/>
     <url>/2022/06/30/post2/</url>
@@ -110,6 +91,25 @@
     <tags>
       
       <tag>CS-Courses</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>超大型積體電路設計導論、VLSI 實驗 － 黃聖傑</title>
+    <link href="/2022/06/30/post3/"/>
+    <url>/2022/06/30/post3/</url>
+    
+    <content type="html"><![CDATA[<h3 id="課程名稱"><a href="#課程名稱" class="headerlink" title="課程名稱"></a>課程名稱</h3><ul><li>超大型積體電路設計導論</li><li>VLSI 實驗</li></ul><h3 id="教授"><a href="#教授" class="headerlink" title="教授"></a>教授</h3><ul><li>黃聖傑</li></ul><h3 id="修課年度"><a href="#修課年度" class="headerlink" title="修課年度"></a>修課年度</h3><ul><li>110-2 (我個人是這學期同時修這兩門課，但課程內容相近，因此寫在同一份心得內)</li></ul><h3 id="教了什麼"><a href="#教了什麼" class="headerlink" title="教了什麼"></a>教了什麼</h3><ul><li>學期總共分為三個部分：</li></ul><ol><li>SPICE 的電路設計<ul><li>基本上從簡單的元件開始，例如邏輯閘 and, nor 等等，使用 MOSFET 去把這些邏輯閘拼湊出來，再來是 Full Adder, Carry Lookahead Adder, 2 Phase Handshaking, Finite State Machine, Multiplier, Multiply Accumulate</li></ul></li><li>Layout，畫的大致上是 SPICE 上面所實做過的</li><li>Verilog (System Design)，寫的基本上是以上所實做過的，額外可能有要試 CPU simulation, FFT</li></ol><h3 id="上課方式"><a href="#上課方式" class="headerlink" title="上課方式"></a>上課方式</h3><ul><li>因為疫情的關係，今年比較特別是使用 Line 文字的方式遠距授課，基本上上課時間老師會在 Line 上打字跟同學提點這次的上課重點，回去後可以參與課本以及網路資料能更理解 VLSI 的設計。</li><li>超大型積體電路設計導論 - 基本上每週有兩天的課，每次都會上課都會出作業，一週會至少有一份作業，另一份則為加分題，繳交方式則是把相關資料 Line 給老師即可</li><li>VLSI 實驗 - 這堂課課比較少，也是每週有一次的作業</li><li>關於使用的 Tool 比較麻煩一點，老師不會提供任何的工作站，因此同學必須自己找其他人要或是想辦法找到相關軟體</li></ul><h3 id="考試作業"><a href="#考試作業" class="headerlink" title="考試作業"></a>考試作業</h3><ul><li>共有三次考試，SPICE, Layout, Verilog 各一次，考試內容為作業的整合及一些應用，不會很難，但老師很要求 IC Design Criteria - Time-to-Market，所以寫完正確的速度越快分數越高，考試開始後 30 分鐘內為 100 分，每 30 分鐘過後扣 5~10 分。如果超過 30 分鐘後沒有寫出，前幾名寫出還是可以獲得 100 分</li></ul><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><ul><li>修課的基礎是要稍微了解 MOSFET 的原理，也就是電子學所教的內容</li></ul><h3 id="最後想說的話"><a href="#最後想說的話" class="headerlink" title="最後想說的話"></a>最後想說的話</h3><ul><li><p>這門課雖然真的很特別是使用 Line 上課，一開始是真的很不習慣，但老師的授課理念是很明確的，從較底層的 SPICE Model 到 System Level Design，一學期內可以讓學生大致了解整個設計架構。老師人也很好，隨時有問題 Line 老師，他都會滿快回覆的。但我還是覺得或許實體課還是會比較好。以下是我的課程作業合集，有興趣的可以觀看了解：</p></li><li><p><a href="https://youtu.be/XhdIe5mc16o">超大型積體電路設計導論 作業影片</a></p></li><li><p><a href="https://youtu.be/k6os-1gE_uA">VLSI Lab 作業影片</a></p></li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>EE-Courses</tag>
       
     </tags>
     
